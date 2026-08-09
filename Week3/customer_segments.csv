@@ -1,0 +1,1201 @@
+CustomerID,Recency,Frequency,Monetary,Cluster,Segment
+10001,20,60,5055.27,4,Champions
+10002,1,61,5531.37,4,Champions
+10003,12,109,8144.48,4,Champions
+10004,5,66,5089.99,4,Champions
+10005,19,58,5888.74,4,Champions
+10006,29,119,9401.56,4,Champions
+10007,6,55,3799.37,4,Champions
+10008,28,122,8683.67,4,Champions
+10009,12,100,7369.62,4,Champions
+10010,3,63,4504.3,4,Champions
+10011,13,70,5424.93,4,Champions
+10012,17,86,6930.35,4,Champions
+10013,18,92,7431.06,4,Champions
+10014,27,53,5182.14,4,Champions
+10015,21,49,4718.0,4,Champions
+10016,2,83,6874.02,4,Champions
+10017,30,76,6504.14,4,Champions
+10018,25,54,5385.99,4,Champions
+10019,11,51,3908.65,4,Champions
+10020,2,112,8508.05,4,Champions
+10021,6,68,5073.89,4,Champions
+10022,31,94,7199.17,4,Champions
+10023,12,105,7241.21,4,Champions
+10024,22,96,7573.14,4,Champions
+10025,6,120,9274.07,4,Champions
+10026,18,66,5792.71,4,Champions
+10027,25,112,8939.37,4,Champions
+10028,2,58,6051.0,4,Champions
+10029,5,59,3932.8,4,Champions
+10030,24,58,3714.34,4,Champions
+10031,8,74,6772.29,4,Champions
+10032,30,78,6165.58,4,Champions
+10033,28,95,7707.04,4,Champions
+10034,5,113,9081.6,4,Champions
+10035,11,55,4452.75,4,Champions
+10036,22,83,6925.45,4,Champions
+10037,17,82,7144.93,4,Champions
+10038,14,83,7004.81,4,Champions
+10039,5,103,7820.35,4,Champions
+10040,13,119,8882.5,4,Champions
+10041,18,97,7918.7,4,Champions
+10042,29,94,8999.72,4,Champions
+10043,6,48,3543.36,0,Champions
+10044,27,113,9911.27,4,Champions
+10045,26,59,5003.78,4,Champions
+10046,24,71,5150.29,4,Champions
+10047,7,103,7754.25,4,Champions
+10048,15,76,5040.47,4,Champions
+10049,23,63,5520.33,4,Champions
+10050,5,123,10105.17,4,Champions
+10051,21,58,4750.09,4,Champions
+10052,23,64,4908.73,4,Champions
+10053,11,121,8554.65,4,Champions
+10054,23,59,4725.49,4,Champions
+10055,7,103,8773.76,4,Champions
+10056,10,98,7198.94,4,Champions
+10057,22,125,9091.88,4,Champions
+10058,18,97,6971.73,4,Champions
+10059,19,85,6427.29,4,Champions
+10060,7,48,3480.76,0,Champions
+10061,17,54,5397.08,4,Champions
+10062,15,54,4715.29,4,Champions
+10063,31,46,3731.84,0,Champions
+10064,10,127,8768.23,4,Champions
+10065,30,45,4328.6,4,Champions
+10066,26,76,6863.21,4,Champions
+10067,25,61,5464.7,4,Champions
+10068,9,68,5954.8,4,Champions
+10069,17,118,8028.02,4,Champions
+10070,29,57,4440.71,4,Champions
+10071,17,90,7895.36,4,Champions
+10072,13,90,9032.94,4,Champions
+10073,3,112,8409.58,4,Champions
+10074,31,84,6528.37,4,Champions
+10075,12,104,7760.35,4,Champions
+10076,16,115,8942.51,4,Champions
+10077,9,132,9323.09,4,Champions
+10078,9,73,5937.14,4,Champions
+10079,19,101,7460.02,4,Champions
+10080,11,65,5831.97,4,Champions
+10081,15,126,10050.11,4,Champions
+10082,22,79,6866.17,4,Champions
+10083,19,99,8775.86,4,Champions
+10084,16,118,9033.5,4,Champions
+10085,8,105,8789.83,4,Champions
+10086,18,55,3497.87,4,Champions
+10087,30,116,9011.82,4,Champions
+10088,24,53,3574.1,4,Champions
+10089,31,57,3598.67,4,Champions
+10090,4,60,5413.05,4,Champions
+10091,10,74,5625.73,4,Champions
+10092,8,80,6765.61,4,Champions
+10093,6,47,3827.37,4,Champions
+10094,1,86,6669.39,4,Champions
+10095,6,73,7065.2,4,Champions
+10096,30,83,6076.49,4,Champions
+10097,29,106,8665.78,4,Champions
+10098,1,106,8172.7,4,Champions
+10099,15,97,9530.69,4,Champions
+10100,27,105,8644.18,4,Champions
+10101,28,99,6861.26,4,Champions
+10102,19,78,6077.65,4,Champions
+10103,19,73,6244.11,4,Champions
+10104,7,59,5358.48,4,Champions
+10105,1,106,8986.2,4,Champions
+10106,20,133,9394.02,4,Champions
+10107,1,62,4929.01,4,Champions
+10108,19,78,5783.83,4,Champions
+10109,21,52,5040.16,4,Champions
+10110,14,114,9511.07,4,Champions
+10111,29,49,3384.02,0,Champions
+10112,20,67,5214.48,4,Champions
+10113,3,85,6656.56,4,Champions
+10114,4,117,8746.87,4,Champions
+10115,14,75,4970.07,4,Champions
+10116,3,103,9075.59,4,Champions
+10117,12,92,7205.65,4,Champions
+10118,28,89,7583.85,4,Champions
+10119,6,63,4431.2,4,Champions
+10120,30,62,5101.7,4,Champions
+10121,29,92,7333.27,4,Champions
+10122,3,68,4509.96,4,Champions
+10123,4,40,3271.35,0,Champions
+10124,13,114,8997.36,4,Champions
+10125,1,92,7357.31,4,Champions
+10126,13,79,6966.46,4,Champions
+10127,18,93,7468.02,4,Champions
+10128,22,81,5519.89,4,Champions
+10129,26,90,7371.61,4,Champions
+10130,30,105,8817.24,4,Champions
+10131,18,70,5584.56,4,Champions
+10132,27,45,4974.2,4,Champions
+10133,28,69,5109.05,4,Champions
+10134,4,95,7236.28,4,Champions
+10135,31,113,9510.22,4,Champions
+10136,9,88,7560.83,4,Champions
+10137,30,51,4030.49,4,Champions
+10138,27,130,9126.64,4,Champions
+10139,30,35,3589.65,0,Champions
+10140,10,108,9576.38,4,Champions
+10141,10,81,7098.71,4,Champions
+10142,10,60,3799.47,4,Champions
+10143,31,55,4050.35,4,Champions
+10144,6,95,8473.62,4,Champions
+10145,12,29,1154.76,0,Champions
+10146,7,47,2021.93,0,Champions
+10147,36,62,2034.27,0,Champions
+10148,54,32,811.22,0,Champions
+10149,5,47,1795.47,0,Champions
+10150,50,25,914.1,0,Champions
+10151,36,18,1384.18,0,Champions
+10152,9,47,1942.01,0,Champions
+10153,36,45,2263.35,0,Champions
+10154,51,23,649.19,2,Loyal Customers
+10155,9,43,1653.67,0,Champions
+10156,52,31,1501.86,0,Champions
+10157,16,26,945.56,0,Champions
+10158,40,26,1030.91,0,Champions
+10159,31,37,1881.75,0,Champions
+10160,59,39,1641.06,0,Champions
+10161,23,25,1047.47,0,Champions
+10162,20,30,1212.83,0,Champions
+10163,47,46,1854.5,0,Champions
+10164,20,39,1703.83,0,Champions
+10165,34,54,1948.71,0,Champions
+10166,28,63,2061.56,0,Champions
+10167,41,48,1988.11,0,Champions
+10168,44,54,1841.04,0,Champions
+10169,33,45,1396.01,0,Champions
+10170,55,62,1901.69,0,Champions
+10171,40,53,2514.31,0,Champions
+10172,9,45,1726.45,0,Champions
+10173,51,20,1265.72,0,Champions
+10174,42,46,2147.86,0,Champions
+10175,26,25,984.67,0,Champions
+10176,47,34,1445.84,0,Champions
+10177,42,50,2055.24,0,Champions
+10178,61,29,1421.91,0,Champions
+10179,10,48,2012.09,0,Champions
+10180,28,59,2070.3,0,Champions
+10181,35,45,1729.57,0,Champions
+10182,57,43,1595.24,0,Champions
+10183,45,28,1086.95,0,Champions
+10184,59,26,1235.98,0,Champions
+10185,7,40,1079.89,0,Champions
+10186,38,38,1709.4,0,Champions
+10187,29,33,977.23,0,Champions
+10188,5,35,1071.92,0,Champions
+10189,46,36,1368.0,0,Champions
+10190,20,39,1607.09,0,Champions
+10191,56,35,1643.29,0,Champions
+10192,17,55,2050.2,0,Champions
+10193,33,53,1697.31,0,Champions
+10194,9,32,1013.15,0,Champions
+10195,44,52,1891.35,0,Champions
+10196,49,25,1233.42,0,Champions
+10197,37,30,915.72,0,Champions
+10198,44,45,1945.03,0,Champions
+10199,1,49,1909.2,0,Champions
+10200,35,54,1755.81,0,Champions
+10201,22,26,807.34,0,Champions
+10202,4,51,2033.87,0,Champions
+10203,50,27,1418.32,0,Champions
+10204,10,45,1637.9,0,Champions
+10205,20,31,1108.62,0,Champions
+10206,36,30,1211.78,0,Champions
+10207,13,45,1960.91,0,Champions
+10208,13,40,1972.53,0,Champions
+10209,4,61,1934.09,0,Champions
+10210,27,20,950.31,2,Loyal Customers
+10211,54,25,1251.16,0,Champions
+10212,8,25,1084.47,0,Champions
+10213,1,28,957.63,0,Champions
+10214,20,40,1552.09,0,Champions
+10215,18,32,1152.64,0,Champions
+10216,57,31,1128.53,0,Champions
+10217,12,47,1583.46,0,Champions
+10218,61,22,1189.11,0,Champions
+10219,5,51,2007.27,0,Champions
+10220,30,25,884.91,0,Champions
+10221,11,29,929.23,0,Champions
+10222,56,44,1776.75,0,Champions
+10223,58,39,1530.4,0,Champions
+10224,4,38,1562.04,0,Champions
+10225,51,34,1405.28,0,Champions
+10226,8,33,1265.91,0,Champions
+10227,23,48,1979.64,0,Champions
+10228,59,25,1191.8,0,Champions
+10229,17,51,1995.59,0,Champions
+10230,56,34,1148.89,0,Champions
+10231,37,54,2087.6,0,Champions
+10232,36,55,1663.85,0,Champions
+10233,7,26,898.15,0,Champions
+10234,15,26,1124.25,0,Champions
+10235,16,51,2151.05,0,Champions
+10236,38,25,978.38,0,Champions
+10237,24,28,1441.23,0,Champions
+10238,52,27,994.86,0,Champions
+10239,51,41,1285.86,0,Champions
+10240,46,37,1534.16,0,Champions
+10241,16,61,2193.8,0,Champions
+10242,17,29,962.94,0,Champions
+10243,8,37,1700.01,0,Champions
+10244,23,51,2495.41,0,Champions
+10245,58,52,1966.76,0,Champions
+10246,25,32,1402.66,0,Champions
+10247,52,30,1403.09,0,Champions
+10248,21,26,963.85,0,Champions
+10249,31,46,1844.9,0,Champions
+10250,22,42,1440.49,0,Champions
+10251,5,23,863.08,0,Champions
+10252,12,28,1230.68,0,Champions
+10253,22,48,1807.29,0,Champions
+10254,42,50,1847.02,0,Champions
+10255,4,57,2104.54,0,Champions
+10256,27,53,2184.79,0,Champions
+10257,41,30,1262.77,0,Champions
+10258,32,45,1984.5,0,Champions
+10259,3,47,2139.23,0,Champions
+10260,60,34,1728.93,0,Champions
+10261,44,24,956.29,0,Champions
+10262,1,46,1976.57,0,Champions
+10263,30,37,1515.23,0,Champions
+10264,6,37,2066.06,0,Champions
+10265,19,49,2263.36,0,Champions
+10266,34,39,1932.95,0,Champions
+10267,54,48,1998.49,0,Champions
+10268,19,46,2023.28,0,Champions
+10269,45,32,982.96,0,Champions
+10270,55,48,2037.68,0,Champions
+10271,49,56,1957.44,0,Champions
+10272,57,21,1074.12,0,Champions
+10273,18,29,1314.22,0,Champions
+10274,10,36,1238.97,0,Champions
+10275,39,22,816.5,2,Loyal Customers
+10276,37,53,2037.25,0,Champions
+10277,47,32,1573.62,0,Champions
+10278,42,41,1770.61,0,Champions
+10279,22,45,2200.84,0,Champions
+10280,11,52,2265.31,0,Champions
+10281,21,25,867.89,0,Champions
+10282,20,43,2172.68,0,Champions
+10283,57,26,1331.93,0,Champions
+10284,29,58,2122.39,0,Champions
+10285,45,57,2241.47,0,Champions
+10286,14,21,921.32,2,Loyal Customers
+10287,49,33,1413.7,0,Champions
+10288,53,44,1740.79,0,Champions
+10289,7,57,2147.68,0,Champions
+10290,43,41,1678.79,0,Champions
+10291,17,36,1034.95,0,Champions
+10292,16,34,1771.46,0,Champions
+10293,24,35,1493.41,0,Champions
+10294,37,47,1803.44,0,Champions
+10295,24,33,1365.31,0,Champions
+10296,53,31,1272.31,0,Champions
+10297,14,31,1021.4,0,Champions
+10298,36,60,2246.49,0,Champions
+10299,48,43,1679.67,0,Champions
+10300,46,43,1774.31,0,Champions
+10301,48,41,2057.64,0,Champions
+10302,3,36,1533.24,0,Champions
+10303,60,32,2337.38,0,Champions
+10304,45,26,980.96,0,Champions
+10305,32,43,2096.11,0,Champions
+10306,58,43,2236.75,0,Champions
+10307,51,46,1842.66,0,Champions
+10308,37,29,1143.1,0,Champions
+10309,43,27,1019.61,0,Champions
+10310,26,38,1468.14,0,Champions
+10311,4,28,1424.23,0,Champions
+10312,34,27,1176.51,0,Champions
+10313,58,36,1457.53,0,Champions
+10314,50,18,992.68,2,Loyal Customers
+10315,45,35,1096.14,0,Champions
+10316,51,40,1989.6,0,Champions
+10317,46,50,1658.37,0,Champions
+10318,24,46,1876.77,0,Champions
+10319,19,43,1637.0,0,Champions
+10320,16,33,1202.57,0,Champions
+10321,22,39,1456.47,0,Champions
+10322,61,38,1216.3,0,Champions
+10323,38,46,1836.36,0,Champions
+10324,30,48,2205.76,0,Champions
+10325,4,45,1698.77,0,Champions
+10326,61,47,1968.08,0,Champions
+10327,45,25,1156.26,0,Champions
+10328,44,60,2109.13,0,Champions
+10329,14,34,1159.89,0,Champions
+10330,57,34,1561.19,0,Champions
+10331,54,33,1495.17,0,Champions
+10332,10,45,1747.84,0,Champions
+10333,57,33,1367.58,0,Champions
+10334,32,32,1085.45,0,Champions
+10335,31,23,1082.64,0,Champions
+10336,31,49,1492.62,0,Champions
+10337,27,38,1165.39,0,Champions
+10338,25,38,1641.22,0,Champions
+10339,25,29,1299.45,0,Champions
+10340,22,37,1532.34,0,Champions
+10341,42,50,1583.9,0,Champions
+10342,27,30,1095.27,0,Champions
+10343,9,27,962.12,0,Champions
+10344,11,57,2155.97,0,Champions
+10345,20,39,1551.98,0,Champions
+10346,46,34,949.68,0,Champions
+10347,36,28,939.39,0,Champions
+10348,59,52,2128.21,0,Champions
+10349,53,29,1140.25,0,Champions
+10350,51,56,2193.85,0,Champions
+10351,2,27,1143.92,0,Champions
+10352,31,42,1302.06,0,Champions
+10353,44,43,1558.53,0,Champions
+10354,12,41,1862.76,0,Champions
+10355,17,28,1526.73,0,Champions
+10356,29,33,1554.74,0,Champions
+10357,50,47,1860.85,0,Champions
+10358,54,25,1218.98,0,Champions
+10359,21,27,1129.77,0,Champions
+10360,47,32,1224.55,0,Champions
+10361,40,49,1648.0,0,Champions
+10362,20,32,1473.02,0,Champions
+10363,27,13,846.72,2,Loyal Customers
+10364,25,37,1437.08,0,Champions
+10365,41,29,1283.98,0,Champions
+10366,37,49,2285.66,0,Champions
+10367,61,23,1215.03,0,Champions
+10368,6,20,844.3,2,Loyal Customers
+10369,15,34,2032.45,0,Champions
+10370,10,22,861.88,2,Loyal Customers
+10371,5,33,1336.75,0,Champions
+10372,55,27,1281.54,0,Champions
+10373,26,23,915.47,0,Champions
+10374,45,28,889.84,0,Champions
+10375,24,53,1816.83,0,Champions
+10376,23,51,1936.82,0,Champions
+10377,22,31,1334.29,0,Champions
+10378,29,30,1240.89,0,Champions
+10379,61,30,1111.68,0,Champions
+10380,47,38,1813.64,0,Champions
+10381,55,49,1806.4,0,Champions
+10382,50,42,1939.92,0,Champions
+10383,50,54,1961.97,0,Champions
+10384,22,60,1669.01,0,Champions
+10385,66,13,342.65,2,Loyal Customers
+10386,77,10,269.31,2,Loyal Customers
+10387,53,24,625.0,2,Loyal Customers
+10388,88,19,597.09,2,Loyal Customers
+10389,34,8,295.29,2,Loyal Customers
+10390,86,5,214.29,2,Loyal Customers
+10391,11,21,454.98,2,Loyal Customers
+10392,90,20,468.08,2,Loyal Customers
+10393,65,20,715.57,2,Loyal Customers
+10394,42,9,246.59,2,Loyal Customers
+10395,30,9,404.4,2,Loyal Customers
+10396,37,17,611.43,2,Loyal Customers
+10397,17,6,268.0,2,Loyal Customers
+10398,66,17,566.1,2,Loyal Customers
+10399,71,10,497.54,2,Loyal Customers
+10400,66,23,690.74,2,Loyal Customers
+10401,24,7,308.68,2,Loyal Customers
+10402,13,22,705.8,2,Loyal Customers
+10403,28,19,486.62,2,Loyal Customers
+10404,86,17,518.6,2,Loyal Customers
+10405,32,20,538.82,2,Loyal Customers
+10406,47,23,737.08,2,Loyal Customers
+10407,89,13,366.22,2,Loyal Customers
+10408,28,16,383.43,2,Loyal Customers
+10409,38,17,359.65,2,Loyal Customers
+10410,71,9,421.27,2,Loyal Customers
+10411,85,8,363.67,2,Loyal Customers
+10412,76,12,555.39,2,Loyal Customers
+10413,72,18,451.13,2,Loyal Customers
+10414,40,18,478.08,2,Loyal Customers
+10415,87,13,512.81,2,Loyal Customers
+10416,64,29,609.84,2,Loyal Customers
+10417,38,12,392.8,2,Loyal Customers
+10418,71,11,362.41,2,Loyal Customers
+10419,88,20,594.64,2,Loyal Customers
+10420,61,13,479.75,2,Loyal Customers
+10421,70,7,339.93,2,Loyal Customers
+10422,79,12,377.91,2,Loyal Customers
+10423,32,25,626.3,2,Loyal Customers
+10424,61,19,914.31,2,Loyal Customers
+10425,27,24,688.89,2,Loyal Customers
+10426,79,27,664.37,2,Loyal Customers
+10427,37,9,198.28,2,Loyal Customers
+10428,73,15,535.7,2,Loyal Customers
+10429,81,16,428.31,2,Loyal Customers
+10430,31,9,415.35,2,Loyal Customers
+10431,91,18,386.76,2,Loyal Customers
+10432,50,20,511.05,2,Loyal Customers
+10433,59,17,436.14,2,Loyal Customers
+10434,40,17,659.55,2,Loyal Customers
+10435,57,11,284.3,2,Loyal Customers
+10436,55,23,560.97,2,Loyal Customers
+10437,89,14,283.4,2,Loyal Customers
+10438,23,9,496.56,2,Loyal Customers
+10439,16,27,575.7,2,Loyal Customers
+10440,16,26,724.47,0,Champions
+10441,37,13,403.14,2,Loyal Customers
+10442,27,10,328.46,2,Loyal Customers
+10443,60,24,709.24,2,Loyal Customers
+10444,76,21,670.81,2,Loyal Customers
+10445,82,14,340.12,2,Loyal Customers
+10446,27,14,461.99,2,Loyal Customers
+10447,80,9,284.38,2,Loyal Customers
+10448,16,15,551.42,2,Loyal Customers
+10449,40,22,503.1,2,Loyal Customers
+10450,79,26,896.94,0,Champions
+10451,19,25,349.99,2,Loyal Customers
+10452,61,20,544.01,2,Loyal Customers
+10453,55,25,589.45,2,Loyal Customers
+10454,33,8,235.22,2,Loyal Customers
+10455,52,16,612.56,2,Loyal Customers
+10456,66,18,494.85,2,Loyal Customers
+10457,27,14,616.76,2,Loyal Customers
+10458,41,20,462.83,2,Loyal Customers
+10459,39,22,638.77,2,Loyal Customers
+10460,59,19,500.66,2,Loyal Customers
+10461,51,15,456.99,2,Loyal Customers
+10462,43,30,654.93,0,Champions
+10463,66,16,626.63,2,Loyal Customers
+10464,90,18,627.44,2,Loyal Customers
+10465,74,15,373.26,2,Loyal Customers
+10466,67,20,563.81,2,Loyal Customers
+10467,24,24,623.22,2,Loyal Customers
+10468,44,23,693.87,2,Loyal Customers
+10469,87,22,625.19,2,Loyal Customers
+10470,20,14,319.63,2,Loyal Customers
+10471,80,9,209.44,2,Loyal Customers
+10472,18,17,466.03,2,Loyal Customers
+10473,71,10,399.11,2,Loyal Customers
+10474,37,16,389.49,2,Loyal Customers
+10475,59,26,521.4,2,Loyal Customers
+10476,43,27,572.62,2,Loyal Customers
+10477,80,23,597.65,2,Loyal Customers
+10478,72,14,336.18,2,Loyal Customers
+10479,20,15,344.22,2,Loyal Customers
+10480,71,15,407.75,2,Loyal Customers
+10481,14,8,249.49,2,Loyal Customers
+10482,24,21,502.46,2,Loyal Customers
+10483,43,21,600.34,2,Loyal Customers
+10484,91,13,299.72,2,Loyal Customers
+10485,84,18,367.89,2,Loyal Customers
+10486,55,19,599.67,2,Loyal Customers
+10487,19,10,287.42,2,Loyal Customers
+10488,74,7,229.62,2,Loyal Customers
+10489,27,21,673.08,2,Loyal Customers
+10490,91,10,348.41,2,Loyal Customers
+10491,27,12,337.9,2,Loyal Customers
+10492,65,19,449.01,2,Loyal Customers
+10493,38,22,697.09,2,Loyal Customers
+10494,45,15,527.21,2,Loyal Customers
+10495,47,19,661.04,2,Loyal Customers
+10496,74,15,434.46,2,Loyal Customers
+10497,42,20,734.17,2,Loyal Customers
+10498,22,17,596.49,2,Loyal Customers
+10499,43,8,325.31,2,Loyal Customers
+10500,64,10,242.99,2,Loyal Customers
+10501,41,21,505.52,2,Loyal Customers
+10502,42,17,813.55,2,Loyal Customers
+10503,49,24,736.32,2,Loyal Customers
+10504,15,13,401.71,2,Loyal Customers
+10505,55,9,445.26,2,Loyal Customers
+10506,22,12,579.05,2,Loyal Customers
+10507,25,11,320.7,2,Loyal Customers
+10508,73,8,195.98,2,Loyal Customers
+10509,21,19,464.98,2,Loyal Customers
+10510,41,20,487.29,2,Loyal Customers
+10511,90,11,420.64,2,Loyal Customers
+10512,55,12,256.09,2,Loyal Customers
+10513,39,13,471.8,2,Loyal Customers
+10514,59,16,560.2,2,Loyal Customers
+10515,60,7,177.01,2,Loyal Customers
+10516,15,8,213.07,2,Loyal Customers
+10517,15,11,384.22,2,Loyal Customers
+10518,65,19,437.41,2,Loyal Customers
+10519,27,26,576.68,2,Loyal Customers
+10520,70,25,670.52,2,Loyal Customers
+10521,23,18,709.01,2,Loyal Customers
+10522,70,25,818.06,2,Loyal Customers
+10523,40,22,789.93,2,Loyal Customers
+10524,78,23,625.17,2,Loyal Customers
+10525,14,24,533.58,2,Loyal Customers
+10526,42,11,277.4,2,Loyal Customers
+10527,63,11,703.29,2,Loyal Customers
+10528,71,16,784.32,2,Loyal Customers
+10529,76,13,605.8,2,Loyal Customers
+10530,39,18,665.18,2,Loyal Customers
+10531,23,24,863.65,0,Champions
+10532,58,20,512.36,2,Loyal Customers
+10533,76,21,554.77,2,Loyal Customers
+10534,78,16,340.74,2,Loyal Customers
+10535,66,22,633.04,2,Loyal Customers
+10536,69,18,607.63,2,Loyal Customers
+10537,83,17,488.83,2,Loyal Customers
+10538,29,9,397.8,2,Loyal Customers
+10539,67,11,238.28,2,Loyal Customers
+10540,79,21,595.93,2,Loyal Customers
+10541,85,14,370.15,2,Loyal Customers
+10542,34,13,311.28,2,Loyal Customers
+10543,45,10,209.14,2,Loyal Customers
+10544,11,18,445.08,2,Loyal Customers
+10545,29,24,652.84,2,Loyal Customers
+10546,77,22,503.14,2,Loyal Customers
+10547,54,7,218.54,2,Loyal Customers
+10548,61,24,934.41,0,Champions
+10549,40,16,452.43,2,Loyal Customers
+10550,88,15,335.64,2,Loyal Customers
+10551,88,13,626.31,2,Loyal Customers
+10552,81,21,801.46,2,Loyal Customers
+10553,15,10,360.38,2,Loyal Customers
+10554,33,30,772.49,0,Champions
+10555,68,21,526.01,2,Loyal Customers
+10556,24,22,754.3,2,Loyal Customers
+10557,36,10,311.51,2,Loyal Customers
+10558,21,19,720.61,2,Loyal Customers
+10559,50,14,833.27,2,Loyal Customers
+10560,35,23,531.61,2,Loyal Customers
+10561,46,11,284.36,2,Loyal Customers
+10562,60,22,454.22,2,Loyal Customers
+10563,13,4,374.77,2,Loyal Customers
+10564,64,28,661.4,2,Loyal Customers
+10565,47,20,637.23,2,Loyal Customers
+10566,45,16,785.46,2,Loyal Customers
+10567,47,13,235.49,2,Loyal Customers
+10568,35,10,517.72,2,Loyal Customers
+10569,29,18,604.53,2,Loyal Customers
+10570,82,18,693.55,2,Loyal Customers
+10571,53,9,338.52,2,Loyal Customers
+10572,23,25,539.48,2,Loyal Customers
+10573,63,8,260.34,2,Loyal Customers
+10574,54,15,288.88,2,Loyal Customers
+10575,78,15,570.2,2,Loyal Customers
+10576,16,21,478.77,2,Loyal Customers
+10577,22,11,243.4,2,Loyal Customers
+10578,37,11,460.42,2,Loyal Customers
+10579,32,31,654.65,0,Champions
+10580,28,16,503.26,2,Loyal Customers
+10581,52,9,256.69,2,Loyal Customers
+10582,62,27,660.31,2,Loyal Customers
+10583,90,23,631.49,2,Loyal Customers
+10584,28,10,359.44,2,Loyal Customers
+10585,38,16,686.26,2,Loyal Customers
+10586,40,26,636.79,2,Loyal Customers
+10587,31,15,590.09,2,Loyal Customers
+10588,33,19,501.13,2,Loyal Customers
+10589,75,8,275.08,2,Loyal Customers
+10590,37,16,552.73,2,Loyal Customers
+10591,55,15,519.5,2,Loyal Customers
+10592,52,26,683.38,2,Loyal Customers
+10593,34,11,346.39,2,Loyal Customers
+10594,36,18,447.99,2,Loyal Customers
+10595,20,14,450.13,2,Loyal Customers
+10596,78,19,543.02,2,Loyal Customers
+10597,54,18,474.61,2,Loyal Customers
+10598,27,18,493.74,2,Loyal Customers
+10599,63,20,631.2,2,Loyal Customers
+10600,38,24,724.4,2,Loyal Customers
+10601,257,25,1015.49,3,At Risk
+10602,275,37,1201.67,3,At Risk
+10603,274,16,574.52,3,At Risk
+10604,214,30,1263.01,3,At Risk
+10605,265,22,834.78,3,At Risk
+10606,128,22,607.96,2,Loyal Customers
+10607,141,10,506.92,2,Loyal Customers
+10608,279,36,1436.89,3,At Risk
+10609,236,36,1262.95,3,At Risk
+10610,163,11,570.11,2,Loyal Customers
+10611,180,21,1300.95,3,At Risk
+10612,263,35,1243.86,3,At Risk
+10613,169,30,1308.2,3,At Risk
+10614,287,16,481.67,3,At Risk
+10615,247,34,1337.6,3,At Risk
+10616,270,40,1214.61,3,At Risk
+10617,156,35,1052.95,3,At Risk
+10618,229,19,614.74,3,At Risk
+10619,223,23,829.84,3,At Risk
+10620,188,28,1329.18,3,At Risk
+10621,175,14,606.9,3,At Risk
+10622,121,19,994.21,2,Loyal Customers
+10623,148,38,1615.01,3,At Risk
+10624,186,22,1062.6,3,At Risk
+10625,301,37,1651.72,3,At Risk
+10626,249,8,554.23,3,At Risk
+10627,176,17,619.39,3,At Risk
+10628,291,24,825.49,3,At Risk
+10629,212,12,590.13,3,At Risk
+10630,180,21,793.46,3,At Risk
+10631,121,24,676.72,2,Loyal Customers
+10632,193,31,1074.11,3,At Risk
+10633,210,14,683.18,3,At Risk
+10634,286,27,971.49,3,At Risk
+10635,297,25,981.35,3,At Risk
+10636,292,29,1176.25,3,At Risk
+10637,177,24,751.67,3,At Risk
+10638,216,11,391.75,3,At Risk
+10639,214,16,766.29,3,At Risk
+10640,284,33,1252.67,3,At Risk
+10641,134,27,971.91,3,At Risk
+10642,187,22,1254.86,3,At Risk
+10643,291,27,1208.34,3,At Risk
+10644,201,32,1061.68,3,At Risk
+10645,163,18,602.11,3,At Risk
+10646,235,17,496.02,3,At Risk
+10647,282,30,1738.69,3,At Risk
+10648,290,18,837.41,3,At Risk
+10649,280,26,1067.25,3,At Risk
+10650,268,29,1172.44,3,At Risk
+10651,220,38,1430.01,3,At Risk
+10652,229,33,1500.61,3,At Risk
+10653,232,14,488.79,3,At Risk
+10654,142,14,453.28,2,Loyal Customers
+10655,206,13,693.79,3,At Risk
+10656,168,36,1475.29,3,At Risk
+10657,256,36,1653.15,3,At Risk
+10658,162,15,534.65,3,At Risk
+10659,136,13,610.49,2,Loyal Customers
+10660,242,6,368.52,1,Lost / Hibernating
+10661,131,35,1577.64,0,Champions
+10662,241,39,1788.4,3,At Risk
+10663,150,17,789.07,3,At Risk
+10664,157,22,1078.75,3,At Risk
+10665,206,16,1006.85,3,At Risk
+10666,156,34,1413.33,3,At Risk
+10667,247,34,1085.5,3,At Risk
+10668,124,19,1012.48,2,Loyal Customers
+10669,155,8,622.63,2,Loyal Customers
+10670,124,21,1205.51,3,At Risk
+10671,146,12,412.76,2,Loyal Customers
+10672,208,23,903.51,3,At Risk
+10673,261,14,512.87,3,At Risk
+10674,283,13,437.85,3,At Risk
+10675,176,15,429.6,3,At Risk
+10676,227,40,1521.86,3,At Risk
+10677,177,43,1491.08,3,At Risk
+10678,218,18,453.49,3,At Risk
+10679,207,29,1335.5,3,At Risk
+10680,213,30,1456.17,3,At Risk
+10681,277,27,1112.66,3,At Risk
+10682,233,34,1111.66,3,At Risk
+10683,143,32,1500.82,3,At Risk
+10684,139,33,1309.87,3,At Risk
+10685,266,17,1326.73,3,At Risk
+10686,148,14,672.54,2,Loyal Customers
+10687,180,35,1439.13,3,At Risk
+10688,285,35,1521.11,3,At Risk
+10689,292,43,1334.19,3,At Risk
+10690,171,39,1540.53,3,At Risk
+10691,181,28,1298.76,3,At Risk
+10692,230,20,1149.2,3,At Risk
+10693,164,37,1101.8,3,At Risk
+10694,237,29,1228.5,3,At Risk
+10695,187,15,681.05,3,At Risk
+10696,156,17,866.27,3,At Risk
+10697,170,21,615.25,3,At Risk
+10698,206,20,565.32,3,At Risk
+10699,271,33,1345.97,3,At Risk
+10700,295,29,1161.97,3,At Risk
+10701,272,30,1225.9,3,At Risk
+10702,256,21,700.94,3,At Risk
+10703,197,29,1247.2,3,At Risk
+10704,198,24,1180.68,3,At Risk
+10705,153,43,1523.06,3,At Risk
+10706,150,9,627.48,2,Loyal Customers
+10707,150,30,1531.77,3,At Risk
+10708,301,14,661.24,3,At Risk
+10709,180,16,920.51,3,At Risk
+10710,128,14,598.76,2,Loyal Customers
+10711,264,31,1343.22,3,At Risk
+10712,131,27,1356.12,3,At Risk
+10713,273,12,643.55,3,At Risk
+10714,218,20,667.88,3,At Risk
+10715,124,36,1721.78,0,Champions
+10716,219,25,941.11,3,At Risk
+10717,252,27,1226.01,3,At Risk
+10718,214,21,883.91,3,At Risk
+10719,159,16,565.52,3,At Risk
+10720,154,10,621.4,2,Loyal Customers
+10721,154,21,804.52,3,At Risk
+10722,181,16,662.99,3,At Risk
+10723,206,22,822.63,3,At Risk
+10724,234,29,957.38,3,At Risk
+10725,284,15,578.42,3,At Risk
+10726,269,18,966.35,3,At Risk
+10727,205,8,486.69,3,At Risk
+10728,133,31,1123.25,3,At Risk
+10729,206,30,1043.27,3,At Risk
+10730,250,9,623.5,3,At Risk
+10731,231,9,418.98,3,At Risk
+10732,253,29,1326.89,3,At Risk
+10733,162,16,668.58,3,At Risk
+10734,201,15,516.93,3,At Risk
+10735,296,15,788.93,3,At Risk
+10736,171,30,1410.53,3,At Risk
+10737,255,20,637.58,3,At Risk
+10738,128,32,1190.58,0,Champions
+10739,219,13,536.53,3,At Risk
+10740,217,19,759.99,3,At Risk
+10741,178,12,560.45,3,At Risk
+10742,211,24,1060.5,3,At Risk
+10743,251,15,835.14,3,At Risk
+10744,229,16,649.07,3,At Risk
+10745,194,30,1147.55,3,At Risk
+10746,287,41,1345.05,3,At Risk
+10747,167,24,1190.76,3,At Risk
+10748,298,33,1151.92,3,At Risk
+10749,298,38,989.95,3,At Risk
+10750,146,29,1275.17,3,At Risk
+10751,267,16,658.43,3,At Risk
+10752,169,18,522.21,3,At Risk
+10753,199,27,1161.65,3,At Risk
+10754,246,20,594.85,3,At Risk
+10755,157,13,563.16,2,Loyal Customers
+10756,199,17,1005.32,3,At Risk
+10757,275,28,1557.58,3,At Risk
+10758,192,30,1403.98,3,At Risk
+10759,121,28,1093.19,0,Champions
+10760,197,20,781.47,3,At Risk
+10761,210,25,1287.74,3,At Risk
+10762,260,20,790.0,3,At Risk
+10763,130,6,529.65,2,Loyal Customers
+10764,256,24,1041.32,3,At Risk
+10765,146,31,1114.8,3,At Risk
+10766,148,20,901.55,3,At Risk
+10767,291,20,631.46,3,At Risk
+10768,192,16,701.39,3,At Risk
+10769,271,28,1662.86,3,At Risk
+10770,257,33,1577.6,3,At Risk
+10771,219,26,749.11,3,At Risk
+10772,183,8,326.34,2,Loyal Customers
+10773,206,27,1485.49,3,At Risk
+10774,189,24,1012.3,3,At Risk
+10775,232,32,1251.21,3,At Risk
+10776,147,23,950.11,3,At Risk
+10777,228,17,833.99,3,At Risk
+10778,259,20,896.28,3,At Risk
+10779,238,33,1325.39,3,At Risk
+10780,217,39,1284.98,3,At Risk
+10781,232,36,1355.07,3,At Risk
+10782,241,28,1256.26,3,At Risk
+10783,268,16,592.57,3,At Risk
+10784,293,15,744.13,3,At Risk
+10785,256,12,621.92,3,At Risk
+10786,227,29,727.58,3,At Risk
+10787,208,32,1581.01,3,At Risk
+10788,300,23,1151.88,3,At Risk
+10789,245,13,411.29,3,At Risk
+10790,123,25,1439.07,0,Champions
+10791,178,9,615.13,3,At Risk
+10792,186,36,1390.14,3,At Risk
+10793,175,13,513.35,3,At Risk
+10794,171,23,802.41,3,At Risk
+10795,299,44,1510.35,3,At Risk
+10796,273,29,1218.36,3,At Risk
+10797,165,11,688.15,3,At Risk
+10798,188,9,433.06,3,At Risk
+10799,277,13,632.87,3,At Risk
+10800,248,21,758.74,3,At Risk
+10801,215,7,553.53,3,At Risk
+10802,238,23,1153.05,3,At Risk
+10803,187,21,682.38,3,At Risk
+10804,263,35,1158.78,3,At Risk
+10805,292,29,984.72,3,At Risk
+10806,196,24,933.74,3,At Risk
+10807,291,16,640.66,3,At Risk
+10808,169,28,1213.01,3,At Risk
+10809,178,8,652.43,3,At Risk
+10810,167,30,945.69,3,At Risk
+10811,243,12,507.37,3,At Risk
+10812,226,18,529.54,3,At Risk
+10813,169,41,1295.38,3,At Risk
+10814,201,7,486.64,3,At Risk
+10815,154,36,1127.4,3,At Risk
+10816,290,18,1005.43,3,At Risk
+10817,248,29,1073.39,3,At Risk
+10818,287,14,691.87,3,At Risk
+10819,269,16,668.02,3,At Risk
+10820,245,21,949.23,3,At Risk
+10821,173,32,1071.45,3,At Risk
+10822,138,40,1546.99,0,Champions
+10823,142,19,871.26,3,At Risk
+10824,213,33,1147.76,3,At Risk
+10825,299,15,645.02,3,At Risk
+10826,133,25,1111.02,3,At Risk
+10827,147,19,707.65,3,At Risk
+10828,171,28,817.33,3,At Risk
+10829,223,12,661.58,3,At Risk
+10830,163,30,1459.29,3,At Risk
+10831,260,13,635.24,3,At Risk
+10832,301,11,553.04,3,At Risk
+10833,222,16,751.13,3,At Risk
+10834,269,22,1326.33,3,At Risk
+10835,296,41,1471.37,3,At Risk
+10836,212,29,1457.08,3,At Risk
+10837,230,24,712.08,3,At Risk
+10838,177,20,674.31,3,At Risk
+10839,177,16,631.37,3,At Risk
+10840,275,29,1235.59,3,At Risk
+10841,197,11,561.43,3,At Risk
+10842,280,19,629.5,3,At Risk
+10843,157,24,1184.94,3,At Risk
+10844,137,20,953.51,3,At Risk
+10845,158,26,1105.48,3,At Risk
+10846,229,24,1235.5,3,At Risk
+10847,133,18,784.7,2,Loyal Customers
+10848,193,20,804.43,3,At Risk
+10849,125,11,480.36,2,Loyal Customers
+10850,211,34,1277.77,3,At Risk
+10851,195,27,1044.23,3,At Risk
+10852,208,8,483.41,3,At Risk
+10853,166,36,1338.27,3,At Risk
+10854,249,37,1363.79,3,At Risk
+10855,153,27,1163.03,3,At Risk
+10856,280,22,960.07,3,At Risk
+10857,239,14,645.76,3,At Risk
+10858,167,28,946.31,3,At Risk
+10859,210,28,874.58,3,At Risk
+10860,297,19,908.86,3,At Risk
+10861,217,25,856.58,3,At Risk
+10862,290,24,1240.85,3,At Risk
+10863,241,31,1228.18,3,At Risk
+10864,151,14,477.74,2,Loyal Customers
+10865,131,33,1299.8,0,Champions
+10866,129,20,1035.89,3,At Risk
+10867,127,22,1139.23,3,At Risk
+10868,215,33,1398.43,3,At Risk
+10869,291,34,1141.57,3,At Risk
+10870,180,9,458.24,3,At Risk
+10871,132,28,1294.06,3,At Risk
+10872,215,29,1104.08,3,At Risk
+10873,167,22,933.68,3,At Risk
+10874,202,28,1190.25,3,At Risk
+10875,175,14,543.62,3,At Risk
+10876,154,35,1093.41,3,At Risk
+10877,149,35,1054.87,3,At Risk
+10878,203,23,886.78,3,At Risk
+10879,130,24,1276.99,3,At Risk
+10880,186,22,983.27,3,At Risk
+10881,220,39,1439.78,3,At Risk
+10882,216,37,1398.34,3,At Risk
+10883,273,25,983.46,3,At Risk
+10884,179,19,554.63,3,At Risk
+10885,190,20,1128.18,3,At Risk
+10886,250,13,392.6,3,At Risk
+10887,268,21,713.08,3,At Risk
+10888,264,15,567.21,3,At Risk
+10889,219,19,1020.67,3,At Risk
+10890,301,27,813.87,3,At Risk
+10891,206,18,487.66,3,At Risk
+10892,174,31,1977.89,3,At Risk
+10893,245,15,423.09,3,At Risk
+10894,245,12,758.39,3,At Risk
+10895,263,22,885.05,3,At Risk
+10896,292,18,800.23,3,At Risk
+10897,218,32,1619.32,3,At Risk
+10898,262,15,586.82,3,At Risk
+10899,143,38,1272.13,3,At Risk
+10900,220,29,1014.63,3,At Risk
+10901,225,4,42.38,1,Lost / Hibernating
+10902,275,8,164.12,1,Lost / Hibernating
+10903,324,5,60.47,1,Lost / Hibernating
+10904,318,4,102.99,1,Lost / Hibernating
+10905,395,5,79.49,1,Lost / Hibernating
+10906,292,8,103.82,1,Lost / Hibernating
+10907,298,10,73.24,1,Lost / Hibernating
+10908,228,1,45.39,1,Lost / Hibernating
+10909,232,1,14.32,1,Lost / Hibernating
+10910,325,4,174.94,1,Lost / Hibernating
+10911,372,4,56.9,1,Lost / Hibernating
+10912,300,8,126.55,1,Lost / Hibernating
+10913,197,9,165.96,1,Lost / Hibernating
+10914,294,13,202.57,1,Lost / Hibernating
+10915,257,1,70.08,1,Lost / Hibernating
+10916,349,5,75.92,1,Lost / Hibernating
+10917,347,3,86.42,1,Lost / Hibernating
+10918,344,11,187.19,1,Lost / Hibernating
+10919,198,4,40.05,1,Lost / Hibernating
+10920,181,10,173.61,1,Lost / Hibernating
+10921,318,5,51.13,1,Lost / Hibernating
+10922,197,2,55.86,1,Lost / Hibernating
+10923,382,12,230.47,1,Lost / Hibernating
+10924,189,6,130.17,1,Lost / Hibernating
+10925,313,11,213.24,1,Lost / Hibernating
+10926,315,5,73.41,1,Lost / Hibernating
+10927,369,5,242.26,1,Lost / Hibernating
+10928,352,6,141.14,1,Lost / Hibernating
+10929,202,5,149.19,1,Lost / Hibernating
+10930,253,12,173.76,1,Lost / Hibernating
+10931,293,7,228.26,1,Lost / Hibernating
+10932,364,7,99.06,1,Lost / Hibernating
+10933,254,2,87.01,1,Lost / Hibernating
+10934,309,6,90.99,1,Lost / Hibernating
+10935,272,4,151.5,1,Lost / Hibernating
+10936,226,6,119.57,1,Lost / Hibernating
+10937,318,7,140.62,1,Lost / Hibernating
+10938,389,1,52.89,1,Lost / Hibernating
+10939,401,2,39.76,1,Lost / Hibernating
+10940,316,5,137.56,1,Lost / Hibernating
+10941,360,5,91.93,1,Lost / Hibernating
+10942,319,7,123.78,1,Lost / Hibernating
+10943,246,11,190.91,1,Lost / Hibernating
+10944,244,10,158.27,1,Lost / Hibernating
+10945,364,2,35.3,1,Lost / Hibernating
+10946,353,2,59.93,1,Lost / Hibernating
+10947,372,2,55.78,1,Lost / Hibernating
+10948,358,9,110.78,1,Lost / Hibernating
+10949,313,6,218.47,1,Lost / Hibernating
+10950,240,5,92.2,1,Lost / Hibernating
+10951,258,10,101.87,1,Lost / Hibernating
+10952,250,6,125.44,1,Lost / Hibernating
+10953,196,9,171.13,1,Lost / Hibernating
+10954,392,3,71.52,1,Lost / Hibernating
+10955,364,7,207.83,1,Lost / Hibernating
+10956,256,4,220.16,1,Lost / Hibernating
+10957,389,7,111.02,1,Lost / Hibernating
+10958,255,2,51.98,1,Lost / Hibernating
+10959,223,7,104.8,1,Lost / Hibernating
+10960,294,9,165.5,1,Lost / Hibernating
+10961,199,9,247.07,1,Lost / Hibernating
+10962,228,8,125.59,1,Lost / Hibernating
+10963,199,5,78.55,1,Lost / Hibernating
+10964,383,2,48.79,1,Lost / Hibernating
+10965,228,7,166.94,1,Lost / Hibernating
+10966,352,5,40.34,1,Lost / Hibernating
+10967,263,2,87.11,1,Lost / Hibernating
+10968,349,5,97.77,1,Lost / Hibernating
+10969,355,7,152.4,1,Lost / Hibernating
+10970,182,8,104.0,1,Lost / Hibernating
+10971,298,1,26.24,1,Lost / Hibernating
+10972,285,7,107.61,1,Lost / Hibernating
+10973,342,3,64.19,1,Lost / Hibernating
+10974,194,9,167.87,1,Lost / Hibernating
+10975,218,3,50.54,1,Lost / Hibernating
+10976,360,7,179.88,1,Lost / Hibernating
+10977,221,13,180.36,1,Lost / Hibernating
+10978,267,5,65.72,1,Lost / Hibernating
+10979,225,1,14.66,1,Lost / Hibernating
+10980,395,10,192.62,1,Lost / Hibernating
+10981,250,4,118.06,1,Lost / Hibernating
+10982,372,7,106.02,1,Lost / Hibernating
+10983,387,5,374.42,1,Lost / Hibernating
+10984,224,3,40.26,1,Lost / Hibernating
+10985,211,7,96.47,1,Lost / Hibernating
+10986,239,8,222.19,1,Lost / Hibernating
+10987,384,4,73.4,1,Lost / Hibernating
+10988,237,8,221.6,1,Lost / Hibernating
+10989,215,6,81.59,1,Lost / Hibernating
+10990,327,7,65.51,1,Lost / Hibernating
+10991,302,4,49.94,1,Lost / Hibernating
+10992,282,8,212.76,1,Lost / Hibernating
+10993,395,6,96.89,1,Lost / Hibernating
+10994,399,7,128.85,1,Lost / Hibernating
+10995,370,1,57.98,1,Lost / Hibernating
+10996,238,7,113.91,1,Lost / Hibernating
+10997,306,4,71.7,1,Lost / Hibernating
+10998,385,2,83.78,1,Lost / Hibernating
+10999,344,1,11.46,1,Lost / Hibernating
+11000,274,4,82.69,1,Lost / Hibernating
+11001,368,3,78.81,1,Lost / Hibernating
+11002,296,13,161.22,1,Lost / Hibernating
+11003,224,5,75.25,1,Lost / Hibernating
+11004,226,13,154.51,1,Lost / Hibernating
+11005,272,4,134.38,1,Lost / Hibernating
+11006,297,5,50.57,1,Lost / Hibernating
+11007,374,4,63.01,1,Lost / Hibernating
+11008,227,4,134.89,1,Lost / Hibernating
+11009,250,5,40.8,1,Lost / Hibernating
+11010,215,7,178.04,1,Lost / Hibernating
+11011,306,3,57.58,1,Lost / Hibernating
+11012,380,10,197.39,1,Lost / Hibernating
+11013,324,5,87.3,1,Lost / Hibernating
+11014,283,9,111.28,1,Lost / Hibernating
+11015,319,5,128.14,1,Lost / Hibernating
+11016,337,6,178.32,1,Lost / Hibernating
+11017,325,4,92.37,1,Lost / Hibernating
+11018,181,12,132.54,1,Lost / Hibernating
+11019,219,11,177.79,1,Lost / Hibernating
+11020,204,12,174.27,1,Lost / Hibernating
+11021,212,6,151.03,1,Lost / Hibernating
+11022,230,5,117.19,1,Lost / Hibernating
+11023,190,2,68.15,1,Lost / Hibernating
+11024,217,5,135.93,1,Lost / Hibernating
+11025,377,6,166.95,1,Lost / Hibernating
+11026,291,6,120.25,1,Lost / Hibernating
+11027,370,8,165.56,1,Lost / Hibernating
+11028,309,6,127.51,1,Lost / Hibernating
+11029,369,6,150.75,1,Lost / Hibernating
+11030,264,8,140.39,1,Lost / Hibernating
+11031,273,12,167.33,1,Lost / Hibernating
+11032,375,3,61.38,1,Lost / Hibernating
+11033,325,8,155.92,1,Lost / Hibernating
+11034,273,5,112.63,1,Lost / Hibernating
+11035,267,8,88.38,1,Lost / Hibernating
+11036,216,5,67.62,1,Lost / Hibernating
+11037,378,7,230.25,1,Lost / Hibernating
+11038,196,3,41.14,1,Lost / Hibernating
+11039,348,6,114.64,1,Lost / Hibernating
+11040,279,1,52.42,1,Lost / Hibernating
+11041,305,5,92.94,1,Lost / Hibernating
+11042,312,6,202.56,1,Lost / Hibernating
+11043,284,7,91.09,1,Lost / Hibernating
+11044,285,6,145.58,1,Lost / Hibernating
+11045,266,10,160.02,1,Lost / Hibernating
+11046,340,3,126.21,1,Lost / Hibernating
+11047,256,3,159.78,1,Lost / Hibernating
+11048,283,1,29.38,1,Lost / Hibernating
+11049,181,4,46.49,1,Lost / Hibernating
+11050,228,10,113.78,1,Lost / Hibernating
+11051,214,9,230.45,1,Lost / Hibernating
+11052,260,3,64.38,1,Lost / Hibernating
+11053,212,8,162.45,1,Lost / Hibernating
+11054,184,10,240.72,2,Loyal Customers
+11055,370,11,178.33,1,Lost / Hibernating
+11056,317,3,76.03,1,Lost / Hibernating
+11057,182,1,22.83,1,Lost / Hibernating
+11058,294,6,169.03,1,Lost / Hibernating
+11059,234,7,152.67,1,Lost / Hibernating
+11060,300,4,101.21,1,Lost / Hibernating
+11061,218,12,211.51,1,Lost / Hibernating
+11062,350,1,96.16,1,Lost / Hibernating
+11063,317,9,119.46,1,Lost / Hibernating
+11064,210,13,140.87,1,Lost / Hibernating
+11065,264,6,98.34,1,Lost / Hibernating
+11066,296,11,282.09,1,Lost / Hibernating
+11067,214,3,167.31,1,Lost / Hibernating
+11068,253,8,139.46,1,Lost / Hibernating
+11069,234,1,146.1,1,Lost / Hibernating
+11070,309,5,106.88,1,Lost / Hibernating
+11071,311,12,243.57,1,Lost / Hibernating
+11072,204,1,40.89,1,Lost / Hibernating
+11073,189,10,171.76,1,Lost / Hibernating
+11074,390,10,189.75,1,Lost / Hibernating
+11075,228,5,55.01,1,Lost / Hibernating
+11076,270,2,28.06,1,Lost / Hibernating
+11077,259,4,89.85,1,Lost / Hibernating
+11078,312,1,112.02,1,Lost / Hibernating
+11079,348,4,133.23,1,Lost / Hibernating
+11080,191,6,130.65,1,Lost / Hibernating
+11081,255,5,181.68,1,Lost / Hibernating
+11082,337,1,53.22,1,Lost / Hibernating
+11083,189,7,174.06,1,Lost / Hibernating
+11084,253,5,51.1,1,Lost / Hibernating
+11085,354,6,126.28,1,Lost / Hibernating
+11086,396,7,206.86,1,Lost / Hibernating
+11087,209,7,98.41,1,Lost / Hibernating
+11088,350,4,38.27,1,Lost / Hibernating
+11089,301,10,168.99,1,Lost / Hibernating
+11090,261,9,106.36,1,Lost / Hibernating
+11091,353,3,61.72,1,Lost / Hibernating
+11092,355,4,31.33,1,Lost / Hibernating
+11093,270,10,159.32,1,Lost / Hibernating
+11094,290,5,57.07,1,Lost / Hibernating
+11095,395,6,92.11,1,Lost / Hibernating
+11096,356,3,45.63,1,Lost / Hibernating
+11097,198,6,178.94,1,Lost / Hibernating
+11098,255,5,39.31,1,Lost / Hibernating
+11099,356,13,212.46,1,Lost / Hibernating
+11100,216,11,161.28,1,Lost / Hibernating
+11101,264,1,104.49,1,Lost / Hibernating
+11102,297,8,113.92,1,Lost / Hibernating
+11103,247,4,96.98,1,Lost / Hibernating
+11104,331,7,130.36,1,Lost / Hibernating
+11105,329,4,56.79,1,Lost / Hibernating
+11106,266,9,95.02,1,Lost / Hibernating
+11107,330,1,19.98,1,Lost / Hibernating
+11108,230,10,133.53,1,Lost / Hibernating
+11109,210,5,183.28,1,Lost / Hibernating
+11110,230,3,54.66,1,Lost / Hibernating
+11111,201,10,102.04,1,Lost / Hibernating
+11112,188,2,63.81,1,Lost / Hibernating
+11113,274,9,137.34,1,Lost / Hibernating
+11114,283,5,102.37,1,Lost / Hibernating
+11115,200,9,190.08,1,Lost / Hibernating
+11116,326,11,128.56,1,Lost / Hibernating
+11117,340,4,75.87,1,Lost / Hibernating
+11118,394,2,71.25,1,Lost / Hibernating
+11119,345,9,170.39,1,Lost / Hibernating
+11120,279,7,171.39,1,Lost / Hibernating
+11121,266,1,67.56,1,Lost / Hibernating
+11122,378,5,59.86,1,Lost / Hibernating
+11123,300,4,58.76,1,Lost / Hibernating
+11124,301,11,192.22,1,Lost / Hibernating
+11125,361,3,30.66,1,Lost / Hibernating
+11126,387,3,40.04,1,Lost / Hibernating
+11127,221,5,126.6,1,Lost / Hibernating
+11128,371,10,128.32,1,Lost / Hibernating
+11129,238,3,85.25,1,Lost / Hibernating
+11130,312,6,161.99,1,Lost / Hibernating
+11131,208,9,169.97,1,Lost / Hibernating
+11132,233,8,138.29,1,Lost / Hibernating
+11133,392,2,61.47,1,Lost / Hibernating
+11134,244,10,186.84,1,Lost / Hibernating
+11135,387,3,79.94,1,Lost / Hibernating
+11136,401,3,54.25,1,Lost / Hibernating
+11137,281,7,107.51,1,Lost / Hibernating
+11138,383,7,152.2,1,Lost / Hibernating
+11139,269,11,173.26,1,Lost / Hibernating
+11140,246,1,114.84,1,Lost / Hibernating
+11141,220,2,65.16,1,Lost / Hibernating
+11142,195,6,61.75,1,Lost / Hibernating
+11143,321,2,88.03,1,Lost / Hibernating
+11144,192,5,58.25,1,Lost / Hibernating
+11145,392,8,137.42,1,Lost / Hibernating
+11146,335,8,126.01,1,Lost / Hibernating
+11147,208,11,133.88,1,Lost / Hibernating
+11148,277,1,58.12,1,Lost / Hibernating
+11149,182,10,244.71,2,Loyal Customers
+11150,401,3,116.56,1,Lost / Hibernating
+11151,250,6,205.65,1,Lost / Hibernating
+11152,280,5,60.21,1,Lost / Hibernating
+11153,229,10,184.01,1,Lost / Hibernating
+11154,228,7,114.43,1,Lost / Hibernating
+11155,346,10,222.5,1,Lost / Hibernating
+11156,323,10,249.85,1,Lost / Hibernating
+11157,332,5,52.63,1,Lost / Hibernating
+11158,281,7,112.09,1,Lost / Hibernating
+11159,225,11,149.35,1,Lost / Hibernating
+11160,204,5,37.79,1,Lost / Hibernating
+11161,360,5,152.28,1,Lost / Hibernating
+11162,379,6,103.03,1,Lost / Hibernating
+11163,272,9,196.17,1,Lost / Hibernating
+11164,354,9,106.62,1,Lost / Hibernating
+11165,399,3,87.3,1,Lost / Hibernating
+11166,309,2,64.78,1,Lost / Hibernating
+11167,188,4,50.5,1,Lost / Hibernating
+11168,215,3,190.03,1,Lost / Hibernating
+11169,291,11,119.06,1,Lost / Hibernating
+11170,279,5,87.18,1,Lost / Hibernating
+11171,339,3,86.05,1,Lost / Hibernating
+11172,361,8,143.46,1,Lost / Hibernating
+11173,388,3,52.68,1,Lost / Hibernating
+11174,281,4,70.04,1,Lost / Hibernating
+11175,246,10,133.69,1,Lost / Hibernating
+11176,193,2,51.4,1,Lost / Hibernating
+11177,286,4,51.87,1,Lost / Hibernating
+11178,302,7,101.39,1,Lost / Hibernating
+11179,274,14,192.67,1,Lost / Hibernating
+11180,267,2,62.52,1,Lost / Hibernating
+11181,205,4,109.42,1,Lost / Hibernating
+11182,222,12,163.44,1,Lost / Hibernating
+11183,283,4,179.41,1,Lost / Hibernating
+11184,275,7,105.53,1,Lost / Hibernating
+11185,320,4,41.57,1,Lost / Hibernating
+11186,382,8,137.25,1,Lost / Hibernating
+11187,339,2,35.98,1,Lost / Hibernating
+11188,349,15,212.16,1,Lost / Hibernating
+11189,287,3,97.51,1,Lost / Hibernating
+11190,350,4,117.96,1,Lost / Hibernating
+11191,341,4,91.26,1,Lost / Hibernating
+11192,393,5,85.0,1,Lost / Hibernating
+11193,320,7,201.0,1,Lost / Hibernating
+11194,196,5,115.97,1,Lost / Hibernating
+11195,309,10,180.7,1,Lost / Hibernating
+11196,208,8,124.48,1,Lost / Hibernating
+11197,210,2,166.86,1,Lost / Hibernating
+11198,211,5,36.77,1,Lost / Hibernating
+11199,219,3,52.68,1,Lost / Hibernating
+11200,329,11,145.88,1,Lost / Hibernating
